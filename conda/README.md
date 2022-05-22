@@ -3,5 +3,5 @@
 ## Disable Automatic Base Activation
 
 ```
-sonda  config --set auto_activate_base false
+conda config --set auto_activate_base false
 ```
